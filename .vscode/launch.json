@@ -8,7 +8,7 @@
             "name": "(gdb) Launch",
             "type": "cppdbg",
             "request": "launch",
-            "program": "${workspaceFolder}/llvm_cookbook/chapter2/toy",
+            "program": "${workspaceFolder}/llvm_cookbook/chapter3/toy",
             "args": [
                 "test.txt"
             ],
